@@ -1,0 +1,10 @@
+// package.json
+{
+    "name": "follower-api",
+    "dependencies": {
+      "express": "^4.18.2"
+    },
+    "scripts": {
+      "start": "node index.js"
+    }
+  }
